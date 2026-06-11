@@ -9,11 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student at IIIT Vadodara
+- 🎓 MCA Student at IIIT Vadodara
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Currently learning C Programming and Data Structures
 - 🌱 Exploring Software Development and Open Source
-- 🚀 Goal: Become an AI Software Engineer
 - 📚 Always learning new technologies
 
 ---
@@ -22,23 +20,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shanusingh-ai&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +36,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/shanusingh-ai" target="blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
