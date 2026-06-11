@@ -17,7 +17,9 @@
 
 🚀 Interested in AI, Machine Learning and Open Source
 
-📫 Reach me at: your-email@example.com
+📫 Reach me at: shanusingh.iiitv@gmail.com
+3
+
 
 ---
 
