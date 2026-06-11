@@ -18,7 +18,6 @@
 🚀 Interested in AI, Machine Learning and Open Source
 
 📫 Reach me at: shanusingh.iiitv@gmail.com
-3
 
 
 ---
