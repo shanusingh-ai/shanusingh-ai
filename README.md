@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanu Singh</h1>
-<h3 align="center">AI Enthusiast | Software Engineering Student at IIIT Vadodara</h3>
+<h3 align="center">AI Enthusiast | Software Engineering | Student at IIIT Vadodara</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Software+Developer;Open+Source+Learner;Problem+Solver" />
