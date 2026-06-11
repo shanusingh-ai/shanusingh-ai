@@ -1,78 +1,27 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Shanu Singh</h1>
-
-<h3 align="center">AI Enthusiast | Software Engineer | IIIT Vadodara</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Software+Developer;Open+Source+Learner;Problem+Solver;Always+Learning+and+Building" />
-</p>
+<h3 align="center">AI Enthusiast | IIIT Vadodara</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanusingh-ai&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+Enthusiast+%F0%9F%A4%96;Learning+Software+Engineering+%F0%9F%92%BB;Building+Projects+and+Growing+Every+Day+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Student at **IIIT Vadodara**
-
-💻 Passionate about **Artificial Intelligence, Machine Learning & Software Development**
-
-🌱 Currently learning **DSA, AI, Deep Learning and Open Source Development**
-
-🚀 Aspiring to become an **AI Engineer**
-
-📚 Solving problems on LeetCode and building real-world projects
-
-🤝 Open to collaboration on AI, ML and Software Projects
-
-📫 Reach me at **shanusingh.iiitv@gmail.com**
+- 🎓 B.Tech CSE Student at IIIT Vadodara
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💻 Currently learning C Programming and Data Structures
+- 🌱 Exploring Software Development and Open Source
+- 🚀 Goal: Become an AI Software Engineer
+- 📚 Always learning new technologies
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Languages and Tools
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/shanusinghai">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/shanusingh-ai">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
-
-</p>
-
-### AI & ML
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Neural%20Networks-EA4335?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,linux" />
 </p>
 
 ---
@@ -80,11 +29,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shanusingh-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanusingh-ai&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -92,53 +38,38 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanusingh-ai&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=shanusingh-ai&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Current Focus
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shanusingh-ai&theme=tokyonight&row=1&column=7"/>
+- Data Structures & Algorithms
+- Problem Solving
+- Artificial Intelligence
+- Open Source Contributions
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shanusinghai" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shanusingh.iiitv@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanusingh-ai&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shanusingh-ai/shanusingh-ai/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| AI Projects | Machine Learning & Deep Learning Experiments |
-| DSA Practice | LeetCode and Competitive Programming Solutions |
-| Open Source | Community Contributions and Learning |
-| College Projects | Academic and Research Work |
-
----
-
-## ✨ Quote
-
-> "Code. Learn. Build. Repeat."
 
 ---
 
 <p align="center">
-🚀 Always Learning, Building and Exploring 💙
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
-```
